@@ -1,0 +1,8 @@
+E:\VisualStudio\Microsoft Visual Studio\Projekty\Quiz Game\obj\Debug\Quiz Game.csproj.AssemblyReference.cache
+E:\VisualStudio\Microsoft Visual Studio\Projekty\Quiz Game\obj\Debug\Quiz Game.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\Microsoft Visual Studio\Projekty\Quiz Game\obj\Debug\Quiz Game.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Microsoft Visual Studio\Projekty\Quiz Game\bin\Debug\Quiz Game.exe.config
+E:\VisualStudio\Microsoft Visual Studio\Projekty\Quiz Game\bin\Debug\Quiz Game.exe
+E:\VisualStudio\Microsoft Visual Studio\Projekty\Quiz Game\bin\Debug\Quiz Game.pdb
+E:\VisualStudio\Microsoft Visual Studio\Projekty\Quiz Game\obj\Debug\Quiz Game.exe
+E:\VisualStudio\Microsoft Visual Studio\Projekty\Quiz Game\obj\Debug\Quiz Game.pdb
